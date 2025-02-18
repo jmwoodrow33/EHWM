@@ -27,6 +27,9 @@ In the future, this game will be hosted for free using GitHub Pages, ensuring ea
 ## Contributing
 This project isn't currently open for contributions.
 
+## Support & Community
+Join the Discord(Work in progress)! https://discord.gg/jBRAdKEUmX
+
 ## License
 [MIT License](LICENSE)
 
